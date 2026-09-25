@@ -1,73 +1,94 @@
-# Maxeem
+# Максим Жупаров
 
-Frontend developer focused on React, TypeScript and Next.js.
+### Frontend / Full-stack Developer
 
-I build product-oriented web applications and combine frontend development
-with banking and fintech domain experience.
+Создаю веб-приложения на **React, TypeScript и Next.js**. Работаю с интерфейсами, API, состоянием приложения и данными. В проектах с серверной частью использую **Node.js и PostgreSQL**.
 
-I use AI tools for planning, implementation, code analysis and testing,
-while reviewing and validating the final result myself.
+Мои проекты — собственная некоммерческая практика. Параллельно работаю в автокредитовании: понимаю клиентские процессы, задачи бизнеса и работу с партнёрами. Рассматриваю Frontend / React и Full-stack позиции. Приоритет — удалённая работа.
 
-## Featured projects
+**[Портфолио](https://personal-portfolio-maxeem.vercel.app)** · **[Email](mailto:maxeemzhuparov@mail.ru)**
 
-### Crypto Portfolio
+---
 
-Portfolio management dashboard with asset tracking, analytics,
-ROI calculations, allocation insights and risk metrics.
+## Основные проекты
 
-[View repository](https://github.com/godaylor/crypto-portfolio)
+### Solecraft · интернет-магазин кроссовок
+Каталог, поиск и фильтры, карточки товаров, выбор цвета и размера, избранное, корзина и демонстрационное оформление заказа.
 
-### React Pizza
+`React` · `TypeScript` · `Supabase`
 
-Product catalog built with React and Redux Toolkit.
-Includes search, category filtering, sorting, pagination
-and URL-synchronized state.
+[Открыть сайт](https://solecraft-two.vercel.app) · [Код](https://github.com/godaylor/solecraft)
 
-[View repository](https://github.com/godaylor/react-pizza-v2)
+### RelayOps · управление сбоями сервисов
+Помогает зафиксировать проблему, распределить работу, следить за исправлением и сохранить результат. История действий и аналитика показывают, что произошло и как проблему решили.
 
-### React Sneakers
+`React` · `TypeScript` · `PostgreSQL` · `WebSockets`
 
-React storefront with product catalog, search, cart,
-favorites and API integration.
+[Открыть приложение](https://relayops-godaylor.onrender.com) · [Код](https://github.com/godaylor/relayops)
 
-[View repository](https://github.com/godaylor/react-sneakers)
+### Signal Studio · аналитика действий пользователей
+Помогает понять, как люди пользуются сайтом: какие действия совершают, где останавливаются и возвращаются ли снова. Результаты можно сохранить, собрать на общей панели и выгрузить.
 
-### LifeOS
+`Next.js` · `React` · `TypeScript` · `PostgreSQL`
 
-Private multi-user product built with Next.js, TypeScript,
-Supabase and PostgreSQL.
+[Попробовать демо](https://signal-studio-smoky.vercel.app/demo) · [Код](https://github.com/godaylor/signal-studio)
 
-The project includes authentication, protected routes,
-user data isolation and product-oriented planning workflows.
+### ReplayLab · баскетбольная тактическая доска
+Для тренеров и команд: расставить игроков, нарисовать движения и передачи, проиграть комбинацию и обсудить её вместе. Поддерживает совместное редактирование и сохранение работы в браузере.
 
-## Core stack
+`React` · `TypeScript` · `Yjs` · `IndexedDB`
 
-React · TypeScript · JavaScript · Next.js · Redux Toolkit  
-REST API · Supabase · PostgreSQL · Git · Vite · HTML · CSS/SCSS
+[Открыть приложение](https://replaylab-godaylor.onrender.com) · [Код](https://github.com/godaylor/replaylab)
 
-## Current focus
+## Другие проекты
 
-- frontend architecture;
-- testing and code quality;
-- performance and accessibility;
-- product development;
-- AI-assisted development.
+**OpsWeave** — порядок действий при сбое: задачи, согласования, ожидание и история выполнения.  
+[Приложение](https://opsweave.onrender.com) · [Код](https://github.com/godaylor/opsweave)
 
-## Contact
+**Napoli** — сервис заказа пиццы: каталог, фильтры, выбор параметров, корзина и демонстрационное оформление заказа.  
+[Сайт](https://napoli-pizza-tau.vercel.app) · [Код](https://github.com/godaylor/napoli-pizza)
 
-Email: maxeemzhuparov@mail.ru
+**Folio / Crypto Portfolio** — учёт покупок криптовалюты, вложенной суммы, текущей стоимости и состава портфеля.  
+[Приложение](https://folio-crypto-godaylor.maxeemzhuparov.chatgpt.site) · [Код](https://github.com/godaylor/crypto-portfolio)
 
-<!--
-**godaylor/godaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Personal Portfolio** — сайт обо мне: описание проектов, разборы решений, приложения и исходный код.  
+[Портфолио](https://personal-portfolio-maxeem.vercel.app) · [Код](https://github.com/godaylor/personal-portfolio)
 
-Here are some ideas to get you started:
+### В разработке
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**VariantLab** — редактор нескольких версий видеоролика: монтаж, форматы, сохранение и экспорт. Облачная обработка ещё проходит финальную проверку.  
+[Редактор](https://variantlab-creative-ops-demo.maxeemzhuparov.chatgpt.site/variantlab/) · [Код](https://github.com/godaylor/variantlab)
+
+**LifeOS Social** — отдельный проект личного планирования.  
+[Код](https://github.com/godaylor/lifeos-social)
+
+---
+
+## Технологии
+
+**Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS, Sass/SCSS, Vite  
+**State / API:** Redux Toolkit, React Router, REST API  
+**Backend / Data:** Node.js, PostgreSQL, Supabase, Neon  
+**Quality / Deploy:** Git, GitHub Actions, Docker, Vitest, Playwright, Vercel, Render
+
+В личных проектах использую AI-инструменты для разбора задач, работы с кодом и тестами. Итоговые решения проверяю самостоятельно по коду, тестам и рабочим сценариям.
+
+## Контакты
+
+Москва · приоритет — удалённая работа  
+[Portfolio](https://personal-portfolio-maxeem.vercel.app) · [maxeemzhuparov@mail.ru](mailto:maxeemzhuparov@mail.ru)
+
+<details>
+<summary>English</summary>
+
+### Maksim Zhuparov · Frontend / Full-stack Developer
+
+I build web applications with React, TypeScript and Next.js, with Node.js and PostgreSQL for server-side features.
+
+My portfolio includes an online store, user analytics, service-incident tools, a collaborative basketball board and a crypto portfolio tracker.
+
+These are personal, non-commercial projects alongside my banking career. I am interested in Frontend / React and Full-stack opportunities, preferably remote.
+
+[Portfolio](https://personal-portfolio-maxeem.vercel.app) · [Email](mailto:maxeemzhuparov@mail.ru)
+
+</details>
