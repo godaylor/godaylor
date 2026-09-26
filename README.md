@@ -89,7 +89,7 @@
 ## Контакты
 
 **Portfolio:** https://personal-portfolio-maxeem.vercel.app  
-**Email:** maxeemzhuparov@mail.ru
+**Email:** maxeemit@mail.ru
 
 <details>
 <summary>English</summary>
