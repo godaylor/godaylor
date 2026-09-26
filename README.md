@@ -7,7 +7,7 @@
   <a href="https://personal-portfolio-maxeem.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:maxeemzhuparov@mail.ru">
+  <a href="mailto:maxeemit@mail.ru">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -102,6 +102,6 @@ My portfolio includes an online store, user analytics, service-incident tools, a
 
 These are personal, non-commercial projects alongside my banking career. I am interested in Frontend / React and Full-stack opportunities, preferably remote.
 
-[Portfolio](https://personal-portfolio-maxeem.vercel.app) · [Email](mailto:maxeemzhuparov@mail.ru)
+[Portfolio](https://personal-portfolio-maxeem.vercel.app) · [Email](mailto:maxeemit@mail.ru)
 
 </details>
